@@ -5,6 +5,7 @@ import colorsys
 speed(0)
 
 bgcolor("black")
+
 h = 0
 
 for i in range(16):
