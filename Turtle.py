@@ -19,8 +19,9 @@ for i in range(16):
         h += 0.005
 
         rt(90)
-        
+
         circle(150 - j * 6, 90)
+        
         lt(90)
         circle(150 - j * 6, 90)
         
