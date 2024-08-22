@@ -20,7 +20,6 @@ import colorsys
 
 
 
-
 speed(0)
 bgcolor("black")
 h = 0
