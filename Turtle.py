@@ -8,7 +8,6 @@ speed(0)
 
 bgcolor("black")
 
-
 NK = 0
 
 for i in range(16):
